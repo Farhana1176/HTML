@@ -1,1 +1,15 @@
-
+# Numbered Lists
+# Numbered lists are surrounded by <ol> ... </ol> tags nd each item within list including <li> .... </li> tags.
+# Here ol - ordered list
+       li - list
+       
+<h1> Algorithm Design </h1>
+<ol> 
+     <li>step1-START</li>
+     <li>step2-declare three integers x,y,z</li>
+     <li>step3-define values x,y</li>
+     <li>step4-add values x,y</li>
+     <li>step5-store output from step4 to z</li>
+     <li>step6-print z</li>
+     <li>step7-STOP</li>
+</ol>     
