@@ -1,0 +1,15 @@
+Creating Links:
+To create a link in HTML you need two things.
+1. The name of the file to which you want to link.
+2. The text that will server as the clickable link.
+The text included within the link tag is actually visible on your page.
+When readers click the link the browser loads the URL associated with the link.
+
+# <a href="https://WWW.google.com"> Google </a>
+href - Hyper text reference(attribute)
+<a> ... </a> - Tag
+href attribute to specify the name or URL to which this link points.
+<a> tag requires attributes in order to be useful.
+<a> tag is also call as "anchor"tag.
+
+# HTML5 made <a> tags with no attributes valid as placeholder links for use with CSS nd Scripts.
